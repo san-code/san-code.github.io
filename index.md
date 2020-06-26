@@ -13,3 +13,5 @@ Der Heli ist sehr gutmütig, etwas behäbig. Dafür spurstabil und verzeiht auch
 
 Heli sounds:
 > Wroouuummm
+
+<img src="http://www.andresenweb.de/grav/user/images/custom/IMG_20150715_175425.jpg"/>

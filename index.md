@@ -10,3 +10,5 @@ Der Heli ist sehr gutmütig, etwas behäbig. Dafür spurstabil und verzeiht auch
 * leicht
 * nicht sehr agil
 * behäbig
+
+"Wroouuummm"

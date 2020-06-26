@@ -11,4 +11,5 @@ Der Heli ist sehr gutmütig, etwas behäbig. Dafür spurstabil und verzeiht auch
 * nicht sehr agil
 * behäbig
 
-"Wroouuummm"
+Heli sounds:
+> Wroouuummm
